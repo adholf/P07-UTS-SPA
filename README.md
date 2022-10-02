@@ -1,2 +1,0 @@
-# P07-UTS-SPA
-UTS
